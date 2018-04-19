@@ -1,2 +1,2 @@
 # WebSite
-This is a brosure website to describe Adam.
+This is a brochure website to describe Adam.
